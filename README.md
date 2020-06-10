@@ -3,6 +3,9 @@
 
 <p align="center">
  <img src=".github/mockup-pc"  />
+ <img src=".github/mockupPhone-01.jpg"  />
+ <img src=".github/mockupPhone-02.jpg"  />
+ <img src=".github/mockupPhone-03.jpg"  />
 </p>
 
 
