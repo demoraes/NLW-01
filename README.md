@@ -2,9 +2,8 @@
  Sistema Ecoleta, usado para identificar pontos de coleta de lixo reciclavel 
 
 <p align="center">
- <img src=".github/mockupPhone-01.jpg"  />
- <img src=".github/mockupPhone-02.jpg"  />
- <img src=".github/mockupPhone-03.jpg"  />
+ <img src=".github/mockup-pc.png"  />
+ <img src=".github/mockup.png"  />
 </p>
 
 
