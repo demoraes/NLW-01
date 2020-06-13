@@ -47,15 +47,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  Sistema <b>Ecoleta</b> é usado para identificar pontos de coleta de lixo reciclavel
 
 
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
 ### :mortar_board: Quem ministrou?
 
   A Next Level Week foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
@@ -119,6 +110,16 @@ $ npm start ou yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
 
 ## :memo: Licença
 
