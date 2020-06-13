@@ -58,27 +58,27 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ### :mortar_board: Quem ministrou?
 
-A Next Level Week foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
+  A Next Level Week foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
 ### ⚙ Como rodar o projeto na sua máquina
 
-O projeto é dividido em três partes, são eles:
+  O projeto é dividido em três partes, são eles:
 
-1 - Backend
-2 - Frontend
-3 - Mobile
+    1 - Backend
+    2 - Frontend
+    3 - Mobile
 
-<b>O Frontend e o mobile precisam que o backend esteja rodando.</b>
+  <b>O Frontend e o mobile precisam que o backend esteja rodando.</b>
 
 ### Pré-requisitos
 
-É necessario que você tenha as seguintes ferramentas instaladas em sua máquina:
+  É necessario que você tenha as seguintes ferramentas instaladas em sua máquina:
 
-<b>[Git](https://git-scm.com)</b>
+  <b>[Git](https://git-scm.com)</b>
 
-<b>[Node.js](https://nodejs.org/en/)</b>
+  <b>[Node.js](https://nodejs.org/en/)</b>
 
-Você pode usar um editor de código de sua preferência, mas eu endico o <b>[VSCode](https://code.visualstudio.com/)</b>
+  Você pode usar um editor de código de sua preferência, mas eu endico o <b>[VSCode](https://code.visualstudio.com/)</b>
 
 ### 🧭 Rodando o Backend
 
