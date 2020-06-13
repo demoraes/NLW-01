@@ -10,11 +10,14 @@
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+
+<p align="center">
+
 <img alt="GitHub language count" src="https://github.com/demoraes/NLW-01/tree/master/.github/ecoleta.svg">
 
   <img alt="Repository size" src="https://github.com/demoraes/NLW-01/tree/master/.github/ecoleta.svg">
   
-  <a href="https://github.com/ialexanderbrito/ecoleta/issues">
+  <a href="https://github.com/demoraes/NLW-01/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ialexanderbrito/ecoleta.svg">
   </a>
     
@@ -22,6 +25,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet">
   </a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
+</p>
 
 <p align="center">
  <img src=".github/mockup-pc.png"  />
