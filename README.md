@@ -82,6 +82,7 @@ Você pode usar um editor de código de sua preferência, mas eu endico o <b>[VS
 
 ### 🧭 Rodando o Backend
 
+```bash
 # Clone este repositório
 $ git clone https://github.com/demoraes/NLW-01
 
@@ -98,10 +99,12 @@ $ npm install ou yarn add
 $ npm run dev:server ou yarn dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
+```
 
 
 ### 🧭 Rodando o Frontend
 
+```bash
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ecoleta
 
@@ -115,7 +118,7 @@ $ npm install ou yarn add
 $ npm start ou yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
+```
 
 ## :memo: Licença
 
